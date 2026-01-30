@@ -33,6 +33,3 @@ This lab demonstrates monolithic architecture concepts including:
 ### /my-events Route
 - **Optimization**: Removed a wasteful loop (`for _ in range(1500000): dummy += 1`) that performed unnecessary increment operations.
 - **Performance**: Improved from ~50ms to ~47ms (approx. 6% improvement).
-
-## Screenshots
-All screenshots (SS1-SS9) are included in the `screenshots/` folder.
